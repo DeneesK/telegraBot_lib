@@ -1,5 +1,6 @@
 ## simple bot example:
 
+```
 from telebot import Bot
 
 
