@@ -4,7 +4,7 @@
 from telebot import Bot
 
 
-bot = Bot("5333268354:AAF8Cj_P9OzF3cSdULLOBWpnSTdX48c3blI")
+bot = Bot("<TOKEN>")
 
 
 @bot.message_handler()
